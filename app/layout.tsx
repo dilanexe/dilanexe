@@ -77,7 +77,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en" className={`${geistSans.variable} ${geistMono.variable} bg-background`}>
+    <html lang="en" className={`light ${geistSans.variable} ${geistMono.variable} bg-background`}>
       <head>
         {/* Preconnect to external resources for faster image loading */}
         <link rel="preconnect" href="https://hebbkx1anhila5yf.public.blob.vercel-storage.com" />
