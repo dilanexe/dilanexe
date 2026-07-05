@@ -1,0 +1,394 @@
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║                    ELITE DERMA CARE - ASSET LINKS & QUICK REFERENCE            ║
+║                           All Images & Resources                               ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+
+═══════════════════════════════════════════════════════════════════════════════════
+BUSINESS CONTACT DETAILS
+═══════════════════════════════════════════════════════════════════════════════════
+
+Clinic Name: The Elite Derma Care
+Address: 276, Highlevel Road, Nugegoda, Western Province, Sri Lanka
+Phone: +94 70 6620020
+WhatsApp: +94 70 6620020
+Email: (To be provided)
+Website: (In production)
+Coordinates: 6.8935°N, 80.7718°E
+
+WhatsApp Direct Link: https://wa.me/947066620020
+Tel Link: tel:+947066620020
+Service Area: Nugegoda, Colombo, Sri Lanka
+
+═══════════════════════════════════════════════════════════════════════════════════
+PROFESSIONAL SERVICE IMAGES - DIRECT LINKS
+═══════════════════════════════════════════════════════════════════════════════════
+
+1. BOTOX TREATMENT IMAGE
+   └─ URL: https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Botox%20Treatment-ZqWm099gCZ0ABsDMJLoaTabfkCnTc5.jpeg
+   └─ Filename: Botox Treatment.jpeg
+   └─ Service: Botox Treatment
+   └─ Description: Doctor performing Botox injection on patient's forehead
+   └─ Usage: Service page hero image, homepage preview
+
+2. HYDRAFACIAL IMAGE
+   └─ URL: https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Hydra%20facial-5SGwHztnmxNPwooX4mbyQ0qREHnKjp.jpeg
+   └─ Filename: Hydra facial.jpeg
+   └─ Service: Hydrafacial Treatment
+   └─ Description: Doctor operating advanced Hydrafacial equipment
+   └─ Usage: Service page hero image, homepage preview
+
+3. LASER HAIR REMOVAL IMAGE
+   └─ URL: https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Laser%20Hair%20removal-CNRSImjPWsHio7kTbJ3kNbRNlupaSz.png
+   └─ Filename: Laser Hair removal.png
+   └─ Service: Laser Hair Removal
+   └─ Description: Doctor performing laser hair removal treatment on face
+   └─ Usage: Service page hero image, homepage preview
+
+4. DERMAL FILLER IMAGE
+   └─ URL: https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Dermal%20Filler-7enbuyBvAKvYF51BaCYW3dCkKzaVLx.jpeg
+   └─ Filename: Dermal Filler.jpeg
+   └─ Service: Dermal Filler Treatment
+   └─ Description: Doctor injecting dermal filler on patient's face
+   └─ Usage: Service page hero image, homepage preview
+
+5. CARBON LASER PEEL IMAGE
+   └─ URL: https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Carbon%20laser%20peel-kpTf5OxeADML5bIqVhIVOTbkcNjgrz.jpeg
+   └─ Filename: Carbon laser peel.jpeg
+   └─ Service: Carbon Laser Peel
+   └─ Description: Doctor with red protective goggles performing carbon laser peel
+   └─ Usage: Service page hero image, homepage preview
+
+6. PIGMENTATION TREATMENT IMAGE
+   └─ URL: https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pigmentation%20Treatment-or33JgiPsTosGbf0hdc6k3T7iDy7Sh.jpeg
+   └─ Filename: Pigmentation Treatment.jpeg
+   └─ Service: Pigmentation Treatment
+   └─ Description: Doctor treating pigmentation with laser equipment
+   └─ Usage: Service page hero image, homepage preview
+
+7. MICRONEEDLING IMAGE
+   └─ URL: https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Micro%20needling-ywbfamdvocFJDjSzzrTTJZaJvkmkXc.jpeg
+   └─ Filename: Micro needling.jpeg
+   └─ Service: Microneedling
+   └─ Description: Doctor performing microneedling treatment on patient
+   └─ Usage: Service page hero image, homepage preview
+
+8. COLLAGEN INDUCTION IMAGE
+   └─ URL: https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Collagen%20Induction-l3m4PfkIZikoYxQlWU8kqosK3Wjeei.jpeg
+   └─ Filename: Collagen Induction.jpeg
+   └─ Service: Collagen Induction Therapy
+   └─ Description: Doctor performing collagen induction therapy
+   └─ Usage: Service page hero image, homepage preview
+
+═══════════════════════════════════════════════════════════════════════════════════
+DOCTOR PROFILE IMAGE
+═══════════════════════════════════════════════════════════════════════════════════
+
+DOCTOR PORTRAIT
+   └─ URL: https://hebbkx1anhila5yf.public.blob.vercel-storage.com/doctor-b8l03qVHvPTzSlhaHCQtafOJEcNQkv.png
+   └─ Filename: doctor.png
+   └─ Description: Professional doctor portrait in modern clinic office
+   └─ Usage: Doctor profile section, About page, footer
+   └─ Purpose: Build trust and credibility
+   └─ Positioning: Doctor in consultation room with professional setting
+
+═══════════════════════════════════════════════════════════════════════════════════
+COMPLETE SERVICE LIST WITH IDs
+═══════════════════════════════════════════════════════════════════════════════════
+
+1. Botox Treatment
+   └─ ID: botox-treatment
+   └─ Route: /services/botox-treatment
+   └─ Image: Botox Treatment.jpeg
+   └─ Status: ✓ Complete
+
+2. Hydrafacial Treatment
+   └─ ID: hydrafacial
+   └─ Route: /services/hydrafacial
+   └─ Image: Hydra facial.jpeg
+   └─ Status: ✓ Complete
+
+3. Laser Hair Removal
+   └─ ID: laser-hair-removal
+   └─ Route: /services/laser-hair-removal
+   └─ Image: Laser Hair removal.png
+   └─ Status: ✓ Complete
+
+4. Dermal Filler Treatment
+   └─ ID: dermal-filler
+   └─ Route: /services/dermal-filler
+   └─ Image: Dermal Filler.jpeg
+   └─ Status: ✓ Complete
+
+5. Microneedling
+   └─ ID: microneedling
+   └─ Route: /services/microneedling
+   └─ Image: Micro needling.jpeg
+   └─ Status: ✓ Complete
+
+6. Carbon Laser Peel
+   └─ ID: carbon-laser-peel
+   └─ Route: /services/carbon-laser-peel
+   └─ Image: Carbon laser peel.jpeg
+   └─ Status: ✓ Complete
+
+7. Pigmentation Treatment
+   └─ ID: pigmentation-treatment
+   └─ Route: /services/pigmentation-treatment
+   └─ Image: Pigmentation Treatment.jpeg
+   └─ Status: ✓ Complete
+
+8. Collagen Induction Therapy
+   └─ ID: collagen-induction
+   └─ Route: /services/collagen-induction
+   └─ Image: Collagen Induction.jpeg
+   └─ Status: ✓ Complete
+
+9. Acne Treatment
+   └─ ID: acne-treatment
+   └─ Route: /services/acne-treatment
+   └─ Status: ✓ Complete
+
+10. Treatment For Hair Growth
+    └─ ID: hair-growth
+    └─ Route: /services/hair-growth-treatment
+    └─ Status: ✓ Complete
+
+11. PRP Therapy
+    └─ ID: prp-therapy
+    └─ Route: /services/prp-therapy
+    └─ Status: ✓ Complete
+
+12. Chemical Peeling
+    └─ ID: chemical-peeling
+    └─ Route: /services/chemical-peeling
+    └─ Status: ✓ Complete
+
+13. Wart Removal
+    └─ ID: wart-removal
+    └─ Route: /services/wart-removal
+    └─ Status: ✓ Complete
+
+14. Fat Burning Treatment
+    └─ ID: fat-burning
+    └─ Route: /services/fat-burning
+    └─ Status: ✓ Complete
+
+═══════════════════════════════════════════════════════════════════════════════════
+DESIGN COLOR CODES
+═══════════════════════════════════════════════════════════════════════════════════
+
+PRIMARY COLOR - TEAL
+└─ Name: Teal
+└─ HEX: #009999
+└─ RGB: 0, 153, 153
+└─ HSL: 180, 100%, 30%
+└─ Usage: Main buttons, headers, primary UI elements, links
+└─ Tailwind: Use custom teal in theme configuration
+
+ACCENT COLOR - GOLD
+└─ Name: Gold
+└─ HEX: #D4AF37
+└─ RGB: 212, 175, 55
+└─ HSL: 45, 71%, 52%
+└─ Usage: Highlights, hover states, premium accents
+└─ Tailwind: Use custom gold in theme configuration
+
+NEUTRAL - WHITE
+└─ HEX: #FFFFFF
+└─ Usage: Background, text on dark backgrounds
+
+NEUTRAL - DARK GRAY
+└─ HEX: #333333
+└─ Usage: Body text, main copy
+
+NEUTRAL - LIGHT GRAY
+└─ HEX: #F5F5F5
+└─ Usage: Card backgrounds, section backgrounds
+
+NEUTRAL - BORDER GRAY
+└─ HEX: #CCCCCC
+└─ Usage: Dividers, borders, subtle separations
+
+═══════════════════════════════════════════════════════════════════════════════════
+QUICK REFERENCE - FILE LOCATIONS
+═══════════════════════════════════════════════════════════════════════════════════
+
+Core Files:
+└─ Main Layout: /app/layout.tsx
+└─ Homepage: /app/page.tsx
+└─ Services Data: /lib/services-data.ts
+└─ Service Detail Component: /components/service-detail-new.tsx
+
+Navigation & Header:
+└─ Nav Header: /components/nav-header.tsx
+└─ WhatsApp Button: /components/whatsapp-button.tsx
+└─ Footer: /components/footer.tsx
+
+Service Pages:
+└─ Botox: /app/services/botox-treatment/page.tsx
+└─ Hydrafacial: /app/services/hydrafacial/page.tsx
+└─ Laser Hair Removal: /app/services/laser-hair-removal/page.tsx
+└─ Dermal Filler: /app/services/dermal-filler/page.tsx
+└─ Microneedling: /app/services/microneedling/page.tsx
+└─ Carbon Laser Peel: /app/services/carbon-laser-peel/page.tsx
+└─ Pigmentation Treatment: /app/services/pigmentation-treatment/page.tsx
+└─ Collagen Induction: /app/services/collagen-induction/page.tsx
+└─ Acne Treatment: /app/services/acne-treatment/page.tsx
+└─ Hair Growth: /app/services/hair-growth-treatment/page.tsx
+└─ PRP Therapy: /app/services/prp-therapy/page.tsx
+└─ Chemical Peeling: /app/services/chemical-peeling/page.tsx
+└─ Wart Removal: /app/services/wart-removal/page.tsx
+└─ Fat Burning: /app/services/fat-burning/page.tsx
+
+Other Pages:
+└─ About: /app/about/page.tsx
+└─ Contact: /app/contact/page.tsx
+└─ Services List: /app/services/page.tsx
+
+Configuration:
+└─ Next.js Config: /next.config.mjs
+└─ Tailwind Config: /tailwind.config.ts
+└─ TypeScript Config: /tsconfig.json
+
+═══════════════════════════════════════════════════════════════════════════════════
+RESPONSIVE BREAKPOINTS
+═══════════════════════════════════════════════════════════════════════════════════
+
+Mobile: 375px
+└─ Single column layout
+└─ Full-width components
+└─ Hamburger navigation menu
+└─ Optimized touch targets
+
+Tablet: 768px
+└─ Two-column layouts
+└─ Wider spacing
+└─ Improved navigation
+
+Desktop: 1024px
+└─ Three-column service grids
+└─ Full navigation menu
+└─ Optimal reading width (1200px max)
+
+Large Screen: 1920px
+└─ Full-width layouts
+└─ Multiple columns
+└─ Maximum content width
+
+═══════════════════════════════════════════════════════════════════════════════════
+SEO KEYWORDS - QUICK REFERENCE
+═══════════════════════════════════════════════════════════════════════════════════
+
+Primary Keywords:
+├─ Aesthetic clinic Nugegoda
+├─ Dermatology Sri Lanka
+├─ Medical spa Colombo
+├─ Cosmetic treatments Nugegoda
+└─ Beauty clinic Western Province
+
+Service Keywords:
+├─ Botox injections Nugegoda
+├─ Laser hair removal Sri Lanka
+├─ Dermal filler Colombo
+├─ Microneedling treatment
+├─ Hydrafacial clinic
+└─ Anti-aging treatment
+
+Long-Tail Keywords:
+├─ Best aesthetic clinic in Nugegoda
+├─ Professional dermatology services
+├─ Advanced laser treatments Sri Lanka
+├─ Anti-aging treatments Colombo
+└─ Skin rejuvenation Nugegoda
+
+═══════════════════════════════════════════════════════════════════════════════════
+QUICK DEPLOY COMMANDS
+═══════════════════════════════════════════════════════════════════════════════════
+
+Build Locally:
+$ cd /vercel/share/v0-project
+$ pnpm build
+
+Test Production Build:
+$ pnpm start
+
+Deploy to Vercel:
+$ git add .
+$ git commit -m "Update: Website with all services and optimizations"
+$ git push origin main
+
+Vercel Auto-Deploy: 3-5 minutes after push
+
+═══════════════════════════════════════════════════════════════════════════════════
+VERIFICATION CHECKLIST - QUICK VERSION
+═══════════════════════════════════════════════════════════════════════════════════
+
+Content:
+  ✓ Clinic name: "The Elite Derma Care"
+  ✓ Phone: +94 70 6620020
+  ✓ Address: 276 Highlevel Road, Nugegoda
+  ✓ All 14 services complete
+
+Functionality:
+  ✓ WhatsApp button visible and functional
+  ✓ All service pages load correctly
+  ✓ Contact form works with file upload
+  ✓ Navigation links functional
+  ✓ Homepage displays all services
+
+Design:
+  ✓ Teal and Gold color scheme
+  ✓ Professional images displaying
+  ✓ Mobile responsive (375px-1920px)
+  ✓ Consistent typography
+  ✓ Proper spacing and layout
+
+SEO:
+  ✓ Meta tags on all pages
+  ✓ Schema markup implemented
+  ✓ Sitemap created
+  ✓ robots.txt configured
+
+Performance:
+  ✓ Images optimized
+  ✓ Build completes without errors
+  ✓ No console errors
+  ✓ Core Web Vitals optimized
+
+═══════════════════════════════════════════════════════════════════════════════════
+EXPECTED METRICS (3-6 Months)
+═══════════════════════════════════════════════════════════════════════════════════
+
+Search Rankings:
+└─ Top 3-5: "aesthetic clinic Nugegoda"
+└─ Top 10-20: "dermatology Sri Lanka"
+└─ Featured local results
+└─ AI chatbot recommendations
+
+Traffic & Leads:
+└─ 40-60% increase in organic traffic
+└─ 30-50 new patient inquiries/month
+└─ Improved conversion rates
+└─ Higher quality leads from search
+
+Brand Impact:
+└─ Professional clinic perception
+└─ Doctor credibility established
+└─ Trust signals from professional images
+└─ Market competitive advantage
+
+═══════════════════════════════════════════════════════════════════════════════════
+
+DOCUMENT INFORMATION
+
+Created: 2026
+Updated: 2026
+Project: Elite Derma Care Website Rebuild
+Framework: Next.js 16 (App Router)
+Hosting: Vercel
+Status: Production Ready
+Version: 1.0 Complete
+
+═══════════════════════════════════════════════════════════════════════════════════

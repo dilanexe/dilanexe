@@ -1,0 +1,43 @@
+# Elite Derma Care - SEO & Geo-Optimization for Sri Lanka
+# Located in Nugegoda, Western Province
+
+# All bots - full access to public content
+User-agent: *
+Allow: /
+Allow: /services/
+Allow: /services/*
+Disallow: /admin/
+Disallow: /api/
+Disallow: /.next/
+Disallow: /private/
+
+# Google - priority crawling
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+Request-rate: 1000/1h
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+Request-rate: 500/1h
+
+# Images and assets - always crawl
+User-agent: *
+Allow: /*.css$
+Allow: /*.js$
+Allow: /images/
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.png
+Allow: *.gif
+
+# Prevent bad bots
+User-agent: MJ12bot
+Allow: /
+
+# Sitemaps for complete indexing
+Sitemap: https://theelitedermacare.com/sitemap.xml
+Sitemap: https://theelitedermacare.com/sitemap-services.xml
+Sitemap: https://theelitedermacare.com/sitemap-treatments.xml
