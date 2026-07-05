@@ -16,7 +16,7 @@ export const services = [
     duration: "15-30 minutes",
     recovery: "No downtime",
     image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Botox%20Treatment-ZqWm099gCZ0ABsDMJLoaTabfkCnTc5.jpeg",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Botox%20Treatment-EtqABygEqpN4cIRaAen5HDGvhvyf57.jpeg",
   },
   {
     id: "hydrafacial",
@@ -36,7 +36,7 @@ export const services = [
     duration: "30-45 minutes",
     recovery: "None",
     image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Hydra%20facial-5SGwHztnmxNPwooX4mbyQ0qREHnKjp.jpeg",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Hydra%20facial-jQW1JWdqSWShEJyKZ1xOXrmVyf8qZM.jpeg",
   },
   {
     id: "laser-hair-removal",
@@ -56,7 +56,7 @@ export const services = [
     duration: "15-45 minutes",
     recovery: "Minimal",
     image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Laser%20Hair%20removal-CNRSImjPWsHio7kTbJ3kNbRNlupaSz.png",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Laser%20Hair%20removal-yzwOJpnJxKLLJvtGUyMisF3FdIGOgt.png",
   },
   {
     id: "dermal-filler",
@@ -76,7 +76,7 @@ export const services = [
     duration: "30-45 minutes",
     recovery: "Minimal",
     image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Dermal%20Filler-7enbuyBvAKvYF51BaCYW3dCkKzaVLx.jpeg",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Dermal%20Filler-TuaYAM4WBs4nx3sKQo0nr8AOS1BT5S.jpeg",
   },
   {
     id: "microneedling",
@@ -96,7 +96,7 @@ export const services = [
     duration: "30-60 minutes",
     recovery: "3-5 days",
     image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Micro%20needling-ywbfamdvocFJDjSzzrTTJZaJvkmkXc.jpeg",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Micro%20needling-HDV96zSP20mZzH1R8ZmM7yaH2WBa7D.jpeg",
   },
   {
     id: "carbon-laser-peel",
@@ -116,7 +116,7 @@ export const services = [
     duration: "20-40 minutes",
     recovery: "None",
     image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Carbon%20laser%20peel-kpTf5OxeADML5bIqVhIVOTbkcNjgrz.jpeg",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Carbon%20laser%20peel-UHa8TSM064khVb1mCszLkTHGsOPsAj.jpeg",
   },
   {
     id: "pigmentation-treatment",
@@ -136,7 +136,7 @@ export const services = [
     duration: "20-45 minutes",
     recovery: "Minimal",
     image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pigmentation%20Treatment-or33JgiPsTosGbf0hdc6k3T7iDy7Sh.jpeg",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pigmentation%20Treatment-SWgK4rNYySgRfxZNCFv1BGiBESVVvt.jpeg",
   },
   {
     id: "collagen-induction",
@@ -156,7 +156,7 @@ export const services = [
     duration: "45-60 minutes",
     recovery: "5-7 days",
     image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Collagen%20Induction-l3m4PfkIZikoYxQlWU8kqosK3Wjeei.jpeg",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Collagen%20Induction-mH27Wtpna2E4MbrQ2NmcwDpiR4dBx6.jpeg",
   },
   {
     id: "acne-treatment",
@@ -213,7 +213,7 @@ export const services = [
     price: "Rs. 5,000 - Rs. 15,000",
     duration: "45-60 minutes",
     recovery: "None",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/doctor-b8l03qVHvPTzSlhaHCQtafOJEcNQkv.png",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Treatment%20for%20hair%20growth-Pb0qcoCJNVJnwn5DR2KEeLmTaEX1OV.jpeg",
   },
   {
     id: "prp-therapy",
