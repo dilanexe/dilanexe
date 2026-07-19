@@ -23,7 +23,7 @@ export function DoctorProfile() {
           <div className="relative">
             <div className="relative h-96 md:h-[500px] rounded-2xl overflow-hidden border-4 border-secondary/30 shadow-2xl">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/doctor-RhiIwjCB5axRdZyKFXIlSbdF35L4uE.png"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG-20260712-WA0045-C5EFu6gi3girgkAui192930dyBxRjI.jpg"
                 alt="Dr. Elite Derma Care - Professional Aesthetic Doctor"
                 fill
                 className="object-cover"

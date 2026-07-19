@@ -52,7 +52,7 @@ export function ServiceDetailNew({ service }: ServiceDetailProps) {
             </p>
 
             {/* Quick Info Cards */}
-            <div className="grid grid-cols-3 gap-3 py-6">
+            <div className="grid grid-cols-2 gap-3 py-6">
               <div className="bg-secondary/10 rounded-lg p-4 text-center">
                 <p className="text-sm text-muted-foreground mb-1">Duration</p>
                 <p className="font-semibold text-foreground">{service.duration}</p>
@@ -60,10 +60,6 @@ export function ServiceDetailNew({ service }: ServiceDetailProps) {
               <div className="bg-secondary/10 rounded-lg p-4 text-center">
                 <p className="text-sm text-muted-foreground mb-1">Recovery</p>
                 <p className="font-semibold text-foreground">{service.recovery}</p>
-              </div>
-              <div className="bg-secondary/10 rounded-lg p-4 text-center">
-                <p className="text-sm text-muted-foreground mb-1">Price Range</p>
-                <p className="font-semibold text-foreground">{service.price}</p>
               </div>
             </div>
 
@@ -149,11 +145,11 @@ export function ServiceDetailNew({ service }: ServiceDetailProps) {
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-white rounded-lg p-8 shadow-lg">
               <h3 className="text-xl font-bold mb-3">Expert Doctors</h3>
-              <p className="text-foreground/70">Highly experienced dermatologists with years of expertise in aesthetic treatments.</p>
+              <p className="text-foreground/70">Highly experienced and qualified doctors with years of expertise in aesthetic treatments.</p>
             </div>
             <div className="bg-white rounded-lg p-8 shadow-lg">
               <h3 className="text-xl font-bold mb-3">Advanced Technology</h3>
-              <p className="text-foreground/70">State-of-the-art equipment and proven techniques for safe and effective results.</p>
+              <p className="text-foreground/70">Industry-proven techniques for safe and effective results.</p>
             </div>
             <div className="bg-white rounded-lg p-8 shadow-lg">
               <h3 className="text-xl font-bold mb-3">Personalized Care</h3>
