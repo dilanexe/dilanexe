@@ -40,7 +40,7 @@ const services = [
     title: 'Wart Removal',
     description: 'Say Goodbye to Warts!',
     short: 'Safe and effective treatment',
-    image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-06-21%20at%2016.07.30%20%281%29-8LBsMLZqaeQgAQtinHzQbWf5HsEzH0.jpeg',
+    image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG-20260613-WA0068%281%29-6Qkzxu7nTTvdSjfzAkzAgSUunqUXUK.jpg',
     icon: '🎯',
   },
   {
@@ -88,7 +88,7 @@ const services = [
     title: 'Laser Hair Removal',
     description: 'Permanent Hair Reduction',
     short: 'Advanced laser technology',
-    image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Laser%20Hair%20removal-pasi3MkormpbRx0SSW0r5XM0eBidim.png',
+    image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG-20260613-WA0069-Fu4Hz3YXOOvn1uSF9WsMgOsHNZVeRr.jpg',
     icon: '✨',
   },
   {
