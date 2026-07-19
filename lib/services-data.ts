@@ -4,16 +4,14 @@ export const services = [
     title: "Botox Treatment",
     shortDescription: "Professional Botox injections for wrinkle reduction",
     description:
-      "Botox is a non-invasive procedure that uses botulinum toxin to relax facial muscles and reduce the appearance of wrinkles and fine lines. Our expert doctors use FDA-approved products to provide natural-looking results.",
+      "Botox is a minimally invasive procedure that uses botulinum toxin to relax facial muscles and reduce the appearance of wrinkles and fine lines.",
     benefits: [
       "Reduces fine lines and wrinkles",
-      "Prevents new wrinkles from forming",
-      "Non-invasive procedure",
+      "Minimally invasive procedure",
       "Quick results in 3-7 days",
       "Results last 3-4 months",
     ],
-    price: "Rs. 8,000 - Rs. 15,000",
-    duration: "15-30 minutes",
+    duration: "30 to 45 minutes",
     recovery: "No downtime",
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Botox%20Treatment-EtqABygEqpN4cIRaAen5HDGvhvyf57.jpeg",
@@ -23,18 +21,17 @@ export const services = [
     title: "Hydrafacial Treatment",
     shortDescription: "Advanced hydradermabrasion for glowing skin",
     description:
-      "Hydrafacial is a revolutionary treatment that uses patented vortex fusion technology to cleanse, extract, and hydrate your skin. It's suitable for all skin types and provides immediate results.",
+      "Advanced technology to cleanse, exfoliate, hydrate, and nourish your skin.",
     benefits: [
       "Deep skin cleansing",
       "Removes impurities and dead skin cells",
       "Hydrates and plumps skin",
       "Reduces fine lines",
-      "Improves skin texture",
+      "Improve skin texture and tone",
       "No downtime",
     ],
-    price: "Rs. 5,000 - Rs. 12,000",
-    duration: "30-45 minutes",
-    recovery: "None",
+    duration: "1 hour",
+    recovery: "Minimal",
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Hydra%20facial-jQW1JWdqSWShEJyKZ1xOXrmVyf8qZM.jpeg",
   },
@@ -51,19 +48,19 @@ export const services = [
       "Suitable for all skin types",
       "No ingrown hairs",
       "Long-lasting results",
+      "Quick procedure",
     ],
-    price: "Rs. 3,000 - Rs. 8,000 per session",
-    duration: "15-45 minutes",
+    duration: "15 minutes to 30 minutes",
     recovery: "Minimal",
     image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Laser%20Hair%20removal-yzwOJpnJxKLLJvtGUyMisF3FdIGOgt.png",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG-20260613-WA0069-Fu4Hz3YXOOvn1uSF9WsMgOsHNZVeRr.jpg",
   },
   {
     id: "dermal-filler",
     title: "Dermal Filler Treatment",
     shortDescription: "Restore volume and enhance facial contours",
     description:
-      "Dermal fillers add volume to areas of the face that have lost volume due to aging. They're perfect for enhancing lips, cheeks, and reducing nasolabial folds.",
+      "Dermal fillers add volume to areas of the face that have lost volume due to aging. They're perfect for enhancing lips, cheeks, reducing nasolabial folds and treating sunken eyes.",
     benefits: [
       "Restores facial volume",
       "Enhances lips and cheeks",
@@ -72,8 +69,7 @@ export const services = [
       "Immediate results",
       "Lasts 6-12 months",
     ],
-    price: "Rs. 10,000 - Rs. 25,000",
-    duration: "30-45 minutes",
+    duration: "45 minutes to 1 hour",
     recovery: "Minimal",
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Dermal%20Filler-TuaYAM4WBs4nx3sKQo0nr8AOS1BT5S.jpeg",
@@ -92,7 +88,6 @@ export const services = [
       "Tightens loose skin",
       "Minimal downtime",
     ],
-    price: "Rs. 5,000 - Rs. 15,000",
     duration: "30-60 minutes",
     recovery: "3-5 days",
     image:
@@ -103,17 +98,15 @@ export const services = [
     title: "Carbon Laser Peel",
     shortDescription: "Deep cleansing laser treatment for clear skin",
     description:
-      "Carbon laser peel is a non-ablative laser treatment that deeply cleanses pores and stimulates collagen. It's ideal for acne-prone skin and provides immediate results.",
+      "Deeply cleans pores, stimulates collagen, and brightens the skin color.",
     benefits: [
       "Deep pore cleansing",
-      "Kills acne bacteria",
       "Reduces acne and breakouts",
       "Improves skin tone",
       "Tightens pores",
       "No downtime",
     ],
-    price: "Rs. 4,000 - Rs. 10,000",
-    duration: "20-40 minutes",
+    duration: "30 to 40 minutes",
     recovery: "None",
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Carbon%20laser%20peel-UHa8TSM064khVb1mCszLkTHGsOPsAj.jpeg",
@@ -123,7 +116,7 @@ export const services = [
     title: "Pigmentation Treatment",
     shortDescription: "Advanced treatment for dark spots and uneven tone",
     description:
-      "Our pigmentation treatment targets melanin-producing cells to reduce dark spots, melasma, and uneven skin tone. We use advanced laser technology for safe and effective results.",
+      "Our pigmentation treatment targets melanin-producing cells to reduce dark spots and melasma. We use advanced laser technology for safe and effective results, and also use PN treatment, advanced microneedling treatment, and exosome treatments.",
     benefits: [
       "Removes dark spots",
       "Treats melasma",
@@ -132,8 +125,7 @@ export const services = [
       "Long-lasting results",
       "Non-invasive",
     ],
-    price: "Rs. 6,000 - Rs. 15,000",
-    duration: "20-45 minutes",
+    duration: "Varies with the treatment",
     recovery: "Minimal",
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pigmentation%20Treatment-SWgK4rNYySgRfxZNCFv1BGiBESVVvt.jpeg",
@@ -143,7 +135,7 @@ export const services = [
     title: "Collagen Induction Therapy",
     shortDescription: "Advanced microneedling for skin renewal",
     description:
-      "Collagen Induction Therapy is an advanced form of microneedling that stimulates your skin's natural healing response. It's perfect for anti-aging and skin rejuvenation.",
+      "Collagen induction therapy with several treatment options including advanced microneedling, PN treatment, exosome treatment, and PRP.",
     benefits: [
       "Stimulates collagen and elastin",
       "Reduces fine lines and wrinkles",
@@ -152,9 +144,8 @@ export const services = [
       "Safe and effective",
       "Minimal side effects",
     ],
-    price: "Rs. 8,000 - Rs. 18,000",
     duration: "45-60 minutes",
-    recovery: "5-7 days",
+    recovery: "A few hours",
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Collagen%20Induction-mH27Wtpna2E4MbrQ2NmcwDpiR4dBx6.jpeg",
   },
@@ -163,18 +154,13 @@ export const services = [
     title: "Acne Treatment",
     shortDescription: "Professional acne clearing and prevention",
     description:
-      "Our comprehensive acne treatment combines advanced technology with expert skincare. We address acne at its source while preventing future breakouts.",
+      "Our expert doctor will evaluate your skin condition and discuss treatment options.",
     benefits: [
       "Clears existing acne",
-      "Prevents future breakouts",
-      "Reduces scars",
-      "Kills acne bacteria",
+      "Reduces scars, pores, and pigmentation",
       "Reduces inflammation",
       "Fast results",
     ],
-    price: "Rs. 3,000 - Rs. 10,000",
-    duration: "30-45 minutes",
-    recovery: "Minimal",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/doctor-b8l03qVHvPTzSlhaHCQtafOJEcNQkv.png",
   },
   {
@@ -191,7 +177,6 @@ export const services = [
       "Visible results quickly",
       "Professional supervision",
     ],
-    price: "Rs. 6,000 - Rs. 12,000",
     duration: "30-45 minutes",
     recovery: "Minimal",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pigmentation%20Treatment-or33JgiPsTosGbf0hdc6k3T7iDy7Sh.jpeg",
@@ -201,7 +186,7 @@ export const services = [
     title: "Treatment For Hair Growth",
     shortDescription: "Advanced hair restoration therapy",
     description:
-      "Our hair growth treatments use advanced technology and scientifically-proven methods to stimulate hair growth and prevent hair loss.",
+      "Our hair growth treatments use advanced technology and scientifically-proven methods to stimulate hair growth and prevent hair loss. With PRP and microneedling treatment. Growth factor and exosome treatments.",
     benefits: [
       "Stimulates new hair growth",
       "Strengthens existing hair",
@@ -210,7 +195,6 @@ export const services = [
       "Natural-looking results",
       "No side effects",
     ],
-    price: "Rs. 5,000 - Rs. 15,000",
     duration: "45-60 minutes",
     recovery: "None",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Treatment%20for%20hair%20growth-Pb0qcoCJNVJnwn5DR2KEeLmTaEX1OV.jpeg",
@@ -220,18 +204,18 @@ export const services = [
     title: "PRP Therapy",
     shortDescription: "Platelet-rich plasma for natural rejuvenation",
     description:
-      "PRP uses your own blood's growth factors to rejuvenate skin and stimulate collagen production. It's a natural and effective anti-aging treatment.",
+      "Uses your own blood's growth factors to rejuvenate skin, stimulate hair growth, and boost collagen production.",
     benefits: [
-      "Uses your own blood",
+      "Stimulates hair growth",
+      "Reduces hair loss and improves hair thickness",
       "Stimulates collagen",
       "Improves skin texture",
       "Reduces fine lines",
       "Natural results",
       "Long-lasting effects",
     ],
-    price: "Rs. 10,000 - Rs. 20,000",
     duration: "60 minutes",
-    recovery: "1-2 days",
+    recovery: "No downtime",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/doctor-b8l03qVHvPTzSlhaHCQtafOJEcNQkv.png",
   },
   {
@@ -239,7 +223,7 @@ export const services = [
     title: "Chemical Peeling",
     shortDescription: "Advanced chemical exfoliation for clear skin",
     description:
-      "Chemical peels use acids to remove damaged outer skin layers, revealing fresh, glowing skin underneath. Available in various strengths for different skin concerns.",
+      "Removes melasma and dark spots while gently exfoliating dead skin cells.",
     benefits: [
       "Removes dead skin cells",
       "Improves skin texture",
@@ -248,7 +232,6 @@ export const services = [
       "Brightens complexion",
       "Visible results",
     ],
-    price: "Rs. 3,000 - Rs. 8,000",
     duration: "20-30 minutes",
     recovery: "3-7 days",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/doctor-b8l03qVHvPTzSlhaHCQtafOJEcNQkv.png",
@@ -264,13 +247,11 @@ export const services = [
       "Minimal scarring",
       "Quick procedure",
       "High success rate",
-      "Prevents recurrence",
       "Professional expertise",
     ],
-    price: "Rs. 2,000 - Rs. 5,000",
     duration: "15-30 minutes",
-    recovery: "1-2 weeks",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/doctor-b8l03qVHvPTzSlhaHCQtafOJEcNQkv.png",
+    recovery: "It has minimal downtime.",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG-20260613-WA0068%281%29-6Qkzxu7nTTvdSjfzAkzAgSUunqUXUK.jpg",
   },
   {
     id: "fat-burning",
@@ -282,11 +263,9 @@ export const services = [
       "Non-invasive",
       "Targets stubborn fat",
       "No downtime",
-      "Boosts metabolism",
       "Visible results in weeks",
       "Safe procedure",
     ],
-    price: "Rs. 5,000 - Rs. 12,000",
     duration: "45-60 minutes",
     recovery: "None",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/doctor-b8l03qVHvPTzSlhaHCQtafOJEcNQkv.png",
