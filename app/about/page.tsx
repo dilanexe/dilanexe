@@ -103,7 +103,7 @@ export default function AboutPage() {
                   <div className="text-3xl flex-shrink-0">✓</div>
                   <div>
                     <h4 className="font-semibold text-foreground mb-2">Latest Technology</h4>
-                    <p className="text-muted-foreground">State-of-the-art equipment and FDA-approved treatments</p>
+                    <p className="text-muted-foreground">Industry-proven techniques and FDA-approved treatments for safe and effective results</p>
                   </div>
                 </div>
                 <div className="flex gap-4">

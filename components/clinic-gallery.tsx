@@ -45,7 +45,7 @@ export function ClinicGallery() {
             Experience Elite Derma Care
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Visit our state-of-the-art facility and meet our professional team in Nugegoda
+            Visit our clinic using industry-proven techniques and meet our professional team in Nugegoda
           </p>
         </div>
 
