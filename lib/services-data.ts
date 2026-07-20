@@ -7,9 +7,8 @@ export const services = [
       "Botox is a minimally invasive procedure that uses botulinum toxin to relax facial muscles and reduce the appearance of wrinkles and fine lines.",
     benefits: [
       "Reduces fine lines and wrinkles",
-      "Minimally invasive procedure",
+      "Minimally invasive",
       "Quick results in 3-7 days",
-      "Results last 3-4 months",
     ],
     duration: "30 to 45 minutes",
     recovery: "No downtime",
