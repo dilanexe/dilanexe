@@ -215,7 +215,7 @@ export const services = [
     ],
     duration: "60 minutes",
     recovery: "No downtime",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Collagen%20Induction-mH27Wtpna2E4MbrQ2NmcwDpiR4dBx6.jpeg",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PRP-xInY1VxnEIlkC9PVgOuD75y8fd9Ojv.jpg",
   },
   {
     id: "chemical-peeling",
@@ -233,7 +233,7 @@ export const services = [
     ],
     duration: "20-30 minutes",
     recovery: "3-7 days",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pigmentation%20Treatment-SWgK4rNYySgRfxZNCFv1BGiBESVVvt.jpeg",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Chemical%20Peeling-QhjwWzYHH3nkFEJ60m9XWe1X136YCG.jpg",
   },
   {
     id: "wart-removal",
@@ -267,7 +267,7 @@ export const services = [
     ],
     duration: "45-60 minutes",
     recovery: "None",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Laser%20Hair%20removal-yzwOJpnJxKLLJvtGUyMisF3FdIGOgt.png",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Fat%20Burning%20-YXnxdPPFqfyWx0sSf7l08zBzfEtROY.jpg",
   },
 ];
 
