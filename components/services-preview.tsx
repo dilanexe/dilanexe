@@ -128,7 +128,7 @@ export function ServicesPreview() {
             Comprehensive Medical Aesthetic Solutions
           </h3>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            Discover 13+ advanced aesthetic treatments from Sri Lanka's leading dermatology clinic. Professional treatments for skin rejuvenation, hair restoration, body contouring, and age-defying results. Expert care at The Elite Derma Care, Nugegoda.
+            Discover advanced aesthetic treatments from Sri Lanka's leading aesthetic clinic. Professional expert medical treatments for skin rejuvenation, hair restoration, body contouring, and age-defying results. Expert care at The Elite Derma Care, Nugegoda.
           </p>
         </div>
 

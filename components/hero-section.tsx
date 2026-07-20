@@ -45,7 +45,7 @@ export function HeroSection() {
                 Premium Aesthetic Treatments in Nugegoda
               </h1>
               <p className="text-base md:text-lg text-gray-700 md:text-muted-foreground leading-relaxed max-w-lg drop-shadow-sm">
-                Discover advanced skincare, laser treatments, and body contouring at Sri Lanka's leading aesthetic clinic. Expert dermatologist-led treatments for flawless skin and confidence. 13+ specialized services including PRP therapy, Botox, dermal fillers, and more.
+                Discover advanced skincare, laser treatments, and body contouring at Sri Lanka's leading aesthetic clinic. Expert medical treatments for flawless skin and confidence. Specialized services including PRP therapy, Botox, dermal fillers, and more.
               </p>
             </div>
 
@@ -71,7 +71,7 @@ export function HeroSection() {
                 <p className="text-xs md:text-sm text-gray-700 md:text-muted-foreground">Happy Clients</p>
               </div>
               <div>
-                <p className="text-2xl md:text-3xl font-bold text-primary drop-shadow-sm">13+</p>
+                <p className="text-2xl md:text-3xl font-bold text-primary drop-shadow-sm">15+</p>
                 <p className="text-xs md:text-sm text-gray-700 md:text-muted-foreground">Services</p>
               </div>
               <div>
