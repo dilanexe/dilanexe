@@ -26,7 +26,7 @@ export function DoctorProfile() {
                 src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG-20260712-WA0045-C5EFu6gi3girgkAui192930dyBxRjI.jpg"
                 alt="Dr. Elite Derma Care - Professional Aesthetic Doctor"
                 fill
-                className="object-cover"
+                className="object-cover object-top"
                 priority
                 sizes="(max-width: 768px) 100vw, 50vw"
                 quality={85}

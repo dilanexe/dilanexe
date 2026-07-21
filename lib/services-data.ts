@@ -160,7 +160,7 @@ export const services = [
       "Reduces inflammation",
       "Fast results",
     ],
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Carbon%20laser%20peel-UHa8TSM064khVb1mCszLkTHGsOPsAj.jpeg",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-06-13%20at%2016.30.42-uol8Vzn1zsQYsBp2BsTHAeybFJoXPz.jpeg",
   },
   {
     id: "pigmentation",
