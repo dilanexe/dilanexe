@@ -29,14 +29,45 @@ export default function ContactPage() {
     }
   }
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const [isLoading, setIsLoading] = useState(false)
+  const [error, setError] = useState('')
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
-    console.log('Form submitted:', formData)
-    setSubmitted(true)
-    setTimeout(() => {
+    setIsLoading(true)
+    setError('')
+
+    try {
+      const response = await fetch('/api/send-email', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          name: `${formData.firstName} ${formData.lastName}`,
+          email: formData.email,
+          phone: formData.phone,
+          serviceType: formData.service,
+          message: formData.message,
+        }),
+      })
+
+      if (!response.ok) {
+        const errorData = await response.json()
+        throw new Error(errorData.error || 'Failed to send email')
+      }
+
+      setSubmitted(true)
       setFormData({ firstName: '', lastName: '', email: '', phone: '', service: '', message: '', image: null })
-      setSubmitted(false)
-    }, 3000)
+      setTimeout(() => {
+        setSubmitted(false)
+      }, 4000)
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'An error occurred. Please try again.')
+      console.error('Form submission error:', err)
+    } finally {
+      setIsLoading(false)
+    }
   }
 
   return (
@@ -93,7 +124,13 @@ export default function ContactPage() {
 
                 {submitted && (
                   <div className="mb-8 p-4 bg-green-100 text-green-800 rounded-lg text-center">
-                    Thank you! We&apos;ll contact you shortly to confirm your appointment.
+                    Thank you! Your inquiry has been sent successfully. We&apos;ll contact you within 24 hours to confirm your appointment. Please check your email for confirmation.
+                  </div>
+                )}
+
+                {error && (
+                  <div className="mb-8 p-4 bg-red-100 text-red-800 rounded-lg text-center">
+                    {error}
                   </div>
                 )}
 
@@ -225,9 +262,10 @@ export default function ContactPage() {
 
                   <button
                     type="submit"
-                    className="w-full px-8 py-3 bg-primary text-primary-foreground rounded-lg hover:opacity-90 transition font-semibold text-lg"
+                    disabled={isLoading}
+                    className="w-full px-8 py-3 bg-primary text-primary-foreground rounded-lg hover:opacity-90 transition font-semibold text-lg disabled:opacity-50 disabled:cursor-not-allowed"
                   >
-                    Request Appointment
+                    {isLoading ? 'Sending...' : 'Request Appointment'}
                   </button>
                 </form>
 
