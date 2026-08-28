@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Phone, MapPin } from 'lucide-react'
+import { Phone, MapPin, MessageCircle } from 'lucide-react'
 import Image from 'next/image'
 
 export function NavHeader() {
@@ -55,10 +55,14 @@ export function NavHeader() {
 
           {/* CTA Button */}
           <Link
-            href="/contact#booking"
-            className="hidden md:inline-block px-6 py-2 bg-primary text-primary-foreground rounded-lg hover:opacity-90 transition font-medium"
+            href="https://wa.me/94706620020?text=Hello%20The%20Elite%20Derma%20Care,%20I%20would%20like%20to%20book%20an%20appointment"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hidden items-center gap-2 rounded-lg bg-primary px-5 py-2 text-primary-foreground transition hover:opacity-90 md:inline-flex"
+            aria-label="Book your appointment on WhatsApp"
           >
-            Book Now
+            <MessageCircle className="size-4" aria-hidden="true" />
+            Book on WhatsApp
           </Link>
 
           {/* Mobile menu button */}

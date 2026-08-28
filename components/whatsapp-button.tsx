@@ -12,10 +12,11 @@ export function WhatsAppButton() {
       href={whatsappLink}
       target="_blank"
       rel="noopener noreferrer"
-      className="fixed bottom-6 right-6 z-40 flex items-center justify-center w-14 h-14 md:w-16 md:h-16 bg-green-500 hover:bg-green-600 rounded-full shadow-lg transition-all duration-300 hover:scale-110 active:scale-95 group"
-      aria-label="Chat on WhatsApp"
+      className="fixed bottom-4 right-4 z-40 flex items-center gap-2 rounded-full bg-primary px-4 py-3 text-primary-foreground shadow-lg transition-all duration-300 hover:scale-105 hover:opacity-90 active:scale-95 group md:bottom-6 md:right-6 md:px-5"
+      aria-label="Book your appointment on WhatsApp"
     >
-      <MessageCircle className="w-7 h-7 md:w-8 md:h-8 text-white" />
+      <MessageCircle className="size-5" aria-hidden="true" />
+      <span className="text-sm font-semibold md:text-base">Book on WhatsApp</span>
       
       {/* Tooltip - Hidden on small screens */}
       <div className="hidden md:flex absolute bottom-full right-0 mb-3 bg-gray-900 text-white text-sm px-3 py-2 rounded-lg whitespace-nowrap pointer-events-none opacity-0 group-hover:opacity-100 transition-opacity duration-200">
