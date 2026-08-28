@@ -1,9 +1,20 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { Resend } from 'resend'
 
-const resend = new Resend(process.env.RESEND_API_KEY)
+function getResendClient() {
+  const apiKey = process.env.RESEND_API_KEY
+  return apiKey ? new Resend(apiKey) : null
+}
 
 export async function POST(request: NextRequest) {
+  const resend = getResendClient()
+
+  if (!resend) {
+    return NextResponse.json(
+      { error: 'Email service is temporarily unavailable. Please contact the clinic by WhatsApp.' },
+      { status: 503 }
+    )
+  }
   try {
     const body = await request.json()
     const { name, email, phone, message, serviceType } = body

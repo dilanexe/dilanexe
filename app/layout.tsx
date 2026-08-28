@@ -34,6 +34,22 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://elitedermacare.vercel.app',
   },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'The Elite Derma Care | Aesthetic Clinic in Nugegoda',
+    description: 'Expert-led aesthetic and skin treatments in Nugegoda, Sri Lanka. Book your consultation on WhatsApp.',
+    images: ['https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-06-21%20at%2016.07.25-nvr3N8ZFtKTVuLoF2yCudXuPCT0ZpF.jpeg'],
+  },
   openGraph: {
     type: 'website',
     locale: 'en_US',

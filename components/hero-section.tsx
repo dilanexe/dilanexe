@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
+import { MessageCircle } from 'lucide-react'
 
 export function HeroSection() {
   return (
@@ -51,10 +52,14 @@ export function HeroSection() {
 
             <div className="flex flex-col sm:flex-row gap-3 md:gap-4 pt-4 md:pt-6">
               <Link
-                href="/contact#booking"
-                className="px-6 md:px-8 py-3 bg-primary text-primary-foreground rounded-lg hover:opacity-90 transition font-semibold text-center text-sm md:text-base shadow-md"
+                href="https://wa.me/94706620020?text=Hello%20The%20Elite%20Derma%20Care,%20I%20would%20like%20to%20book%20an%20appointment"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center gap-2 rounded-lg bg-primary px-6 py-3 text-center text-sm font-semibold text-primary-foreground shadow-md transition hover:opacity-90 md:px-8 md:text-base"
+                aria-label="Book your appointment on WhatsApp"
               >
-                Book Your Appointment
+                <MessageCircle className="size-5" aria-hidden="true" />
+                Book on WhatsApp
               </Link>
               <Link
                 href="#services"

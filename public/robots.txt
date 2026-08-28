@@ -33,9 +33,22 @@ Allow: *.jpeg
 Allow: *.png
 Allow: *.gif
 
+# AI search crawlers can access public, factual clinic content
+User-agent: GPTBot
+Allow: /
+Disallow: /api/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /api/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /api/
+
 # Prevent bad bots
 User-agent: MJ12bot
-Allow: /
+Disallow: /
 
 # Sitemaps for complete indexing
 Sitemap: https://elitedermacare.vercel.app/sitemap.xml
